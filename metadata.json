@@ -1,0 +1,7 @@
+{
+  "name": "Agent Archer Interface",
+  "description": "A web-based chat interface to interact with Agent Archer, a sophisticated AI persona designed for code generation and strategic task execution. Communicate with Archer as his operator, Axius.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
